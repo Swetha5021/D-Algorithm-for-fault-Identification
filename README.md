@@ -1,14 +1,20 @@
-# D-Algorithm-for-fault-Identification
-Swetha S_Girl Hackathon_Ideathon Round
+# D-Algorithm-for-fault-Identification_in_a_combiational_circuit
+Swetha S_Google_Girl Hackathon_Ideathon Round
 
-1. Install a VHDL simulator: Choose a VHDL simulator that suits your requirements and follow the installation instructions provided by the simulator vendor. Make sure the simulator is properly installed on your system.
+1. Open https://www.edaplayground.com/ in the browser.
+2. Click on Testbench+Design placed on the top left side and select VHDL.
+3. Then type your simulation entity in the Top entity.
+4. From Tools & Simulators select "Cadence Xcelium 20.09".
+5. Then, in Run options select "Open EPwave after run".
+6. Write your code in testbench.vhd and design.vhd file.
+7. Finally, click on "Run" placed at the top.
+8. View the waveform in the waveform viewer that is adjacent to the EDA playground tab.
 
-2. Create a project: Create a new project in your VHDL simulator. The steps for creating a project may vary depending on the simulator you are using. Typically, you will need to specify the project name, the location of your VHDL files, and any other project-specific settings.
+**Design and Setup**
 
-3. Add the VHDL files: Add the VHDL code file containing the Circuit_Fault_Detection entity and architecture to the project. This can usually be done through the simulator's project management interface. Ensure that all necessary VHDL files are included in the project.
+![image](https://github.com/Swetha5021/D-Algorithm-for-fault-Identification/assets/110710815/0d847852-4a21-4ed9-8ad1-87e6bb52ab97)
 
-4. Compile the design: Compile the VHDL design. This step checks for syntax errors and analyzes the design hierarchy. If there are any errors in the code, they will be reported during this process. Fix any reported errors before proceeding.
 
-5. Simulate the design: Set up a simulation to run the VHDL code. This involves configuring the simulation parameters, such as the simulation time and any input stimulus required. The specific steps for setting up a simulation depend on the simulator you are using.
+**Simulation Waveform**
 
-6. Run the simulation: Start the simulation and let it run for the desired duration. During the simulation, the code will execute, and you can observe the behavior of the signals and variables in your design. The simulation may generate output waveforms or logs to help analyze the behavior of the design.
+![image](https://github.com/Swetha5021/D-Algorithm-for-fault-Identification/assets/110710815/bad25769-aecd-4030-9dce-163e4d1b65cc)

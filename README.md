@@ -18,4 +18,5 @@ Swetha S_Google_Girl Hackathon_Ideathon Round
 
 **Simulation Waveform**
 
-![image](https://github.com/Swetha5021/D-Algorithm-for-fault-Identification/assets/110710815/bad25769-aecd-4030-9dce-163e4d1b65cc)
+![image](https://github.com/Swetha5021/D-Algorithm-for-fault-Identification/assets/110710815/6d089b2d-b043-4b4d-ae8d-9890960fa40c)
+
